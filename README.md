@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <你的名字></h1>
+<h1 align="center">Hi 👋, I'm 李锐</h1>
 <h3 align="center">CS 本科 2025 级 | 嵌入式开发方向 | 51 → STM32 → 嵌入式 Linux</h3>
 
 ---
